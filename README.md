@@ -4,7 +4,7 @@ Cześć! Jestem Michał.
 
 ![profile](img/profilowe.jpg)
 
-Moje wykształcenie to technik mechanik, lecz to informatyka zawsze była moim zainteresowaniem. Sam nazywam siebie informatykiem samoukiem :) wszystko co wiem nauczyłem się sam, szukając informacji w sieci. Wszystkie problemy z sieciami domowymi, systemami operacyjnymi, aplikacjami, smartfonami czy laptopami, rozwiązuje sam. Zawsze szukam informacji, inspiracji czy pomocy w sieci. 
+Moje wykształcenie to technik mechanik, lecz to informatyka zawsze była moim zainteresowaniem. Sam nazywam siebie informatykiem samoukiem :) wszystko co wiem nauczyłem się sam, szukając informacji, inspiracji czy pomocy w sieci. Wszystkie problemy z sieciami domowymi, systemami operacyjnymi, aplikacjami, smartfonami czy laptopami, rozwiązuje sam.
 
 Lubię też "dłubać" w smartfonach. Odblokowanie bootloadra, wgrywanie custom recovery i wgrywanie custom romów daje mi frajdy i satysfakcji. Zdażały się też drobne naprawy elektroniczne laptopów czy smartfonów.
 
