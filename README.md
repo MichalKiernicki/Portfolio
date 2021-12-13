@@ -1,7 +1,14 @@
 # Michał Kiernicki
 ## O mnie
-Cześć! Jestem Michał. Ukończyłem roczny intensywny kurs Java w SDA i wkraczam do branży IT. Kurs to nie był mój pierwszy raz kiedy zetknąłem się z programowaniem. Już w technikum poznałem podstawy HTML i C++. 
-Pierwszą styczność z programowaniem miałem w technikum, gdzie poznałem podstawy HTML i C++. 
+Cześć! Jestem Michał.
+
+![profile](img/profilowe.jpg)
+
+Moje wykształcenie to technik mechanik, lecz to informatyka zawsze była moim zainteresowaniem. Sam nazywam siebie informatykiem samoukiem :) wszystko co wiem nauczyłem się sam, szukając informacji w sieci. Wszystkie problemy z sieciami domowymi, systemami operacyjnymi, aplikacjami, smartfonami czy laptopami, rozwiązuje sam. Zawsze szukam informacji, inspiracji czy pomocy w sieci. 
+
+Lubię też "dłubać" w smartfonach. Odblokowanie bootloadra, wgrywanie custom recovery i wgrywanie custom romów daje mi frajdy i satysfakcji. Zdażały się też drobne naprawy elektroniczne laptopów czy smartfonów.
+
+Pierwszą styczność z programowaniem miałem w technikum, gdzie poznałem podstawy HTML i C++. Niestey obrałem inną drogę i nie rozwijałem się w kierunku programowania. Dopiero po latach zdecydowałem, że chce być programistą. Ukończyłem roczny intensywny kurs Java w SDA i wkraczam do świata IT.
 ## Kurs Software Development Academy
 Kurs trwał 360h :
 * Java podstawy i Java zaawansowana, Programowanie --> 112h
@@ -23,7 +30,7 @@ INTELIJ IDEA, MAVEN, GITHUB, POSTMAN, SCRUM - AGILE, JIRA, MIRO, CONFLUENCE, DOC
 * Projekt praktyczny [SpringTravel360](SpringTravel360)
 * Projekt Końcowy [mKrew](mKrew)
 ## Moje zainteresowania
-* Smartfony / android
+* Smartfony / Android
 * Smart gadżety
 * Nowe technologie
 ## Kontakt
